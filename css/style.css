@@ -14740,3 +14740,9 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 .dtp .right {
 	right: 20px;
 }
+@media (max-width: 575px) {
+	video {
+		height: 200px;
+		width: 300px;
+	}
+}
