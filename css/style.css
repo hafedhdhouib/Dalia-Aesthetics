@@ -219,7 +219,7 @@ h2,
 @media (min-width: 1200px) {
 	h2,
 	.heading-2 {
-		font-size: 48px;
+		font-size: 40px;
 		line-height: 1.45833;
 	}
 }
