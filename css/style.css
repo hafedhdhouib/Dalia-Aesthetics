@@ -2054,11 +2054,11 @@ p + .list-marked {
 }
 
 .contact-list .contact-list-content a {
-	color: #9b9b9b;
+	color: #313131;
 }
 
 .contact-list .contact-list-content a:hover {
-	color: #fee8ec;
+	color: #000000;
 }
 
 .contact-list * + .contact-list-content {
@@ -2099,7 +2099,7 @@ img {
 }
 
 .icon-primary {
-	color: #fee8ec;
+	color: #a04a69;
 }
 
 .icon-circle {
