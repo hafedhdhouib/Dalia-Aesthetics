@@ -4144,7 +4144,7 @@ textarea.form-input {
 .breadcrumbs-custom {
 	position: relative;
 	padding: 25px 0;
-	background-color: #edf1f1;
+	/* background-color: #edf1f1;*/
 	background-position: center;
 }
 
