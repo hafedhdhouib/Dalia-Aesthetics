@@ -11,7 +11,7 @@
     position: relative;
     display: block;
     padding: 8px 0 8px 50px;
-    background: #213744;
+    background: #a04a69;
     border-radius: 8px;
     overflow: hidden;
     text-decoration: none;
@@ -28,15 +28,15 @@
     height: 100%;
     left: 0;
     top: 0;
-    color: #fff;
-    background: radial-gradient(rgba(33, 55, 68, .8), #213744);
+    color: rgb(0, 0, 0);
+    background: #a04a69 ;
     text-align: center;
     border-right: 1px solid transparent;
 }
 #accordion .accordion-title:hover {
     padding-left: 60px;
-    background: #213744;
-    color: #fff;
+    background: #fee8ec;
+    color: rgb(0, 0, 0);
 }
 #accordion .accordion-title:hover i {
     border-right: 1px solid #fff;
