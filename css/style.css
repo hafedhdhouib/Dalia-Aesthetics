@@ -4176,7 +4176,7 @@ textarea.form-input {
 }
 
 .breadcrumbs-custom-path li::after {
-	content: "";
+	
 	font-family: 'FontAwesome';
 	position: absolute;
 	top: 52%;
